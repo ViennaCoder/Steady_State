@@ -3585,8 +3585,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1414844422}
   m_HandleRect: {fileID: 1414844421}
   m_Direction: 2
-  m_Value: 1.0000004
-  m_Size: 0.6335197
+  m_Value: 1.0000006
+  m_Size: 0.57310003
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -4201,7 +4201,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.25}
   m_AnchorMax: {x: 1, y: 0.75}
-  m_AnchoredPosition: {x: -5.0000153, y: 0}
+  m_AnchoredPosition: {x: -5, y: 0}
   m_SizeDelta: {x: -20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &544832290
@@ -4783,7 +4783,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -7.5000153, y: -0.5}
+  m_AnchoredPosition: {x: -7.5, y: -0.5}
   m_SizeDelta: {x: -35, y: -13}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &647026949
@@ -4865,9 +4865,9 @@ RectTransform:
   m_Father: {fileID: 1697008934}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -207, y: 140}
+  m_AnchorMin: {x: 0, y: 0.5}
+  m_AnchorMax: {x: 0, y: 0.5}
+  m_AnchoredPosition: {x: 709, y: 140}
   m_SizeDelta: {x: 397.4759, y: 44.4109}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &683547234
@@ -6724,7 +6724,8 @@ MonoBehaviour:
   m_Text: "<size=75>Credits</size>\n\n<b>Developer</b>\n\tViennaCoder\n\tWarkinry\n\n<b>Grafics</b>\n\tdecrease
     icon made by https://www.flaticon.com/authors/pixel-perfect\r\n\tearthquake and
     wind by pngwing\n\tbackground pictures: \thttps://pikwizard.com/photo/landscape-mountain-highland/0ce695d66ec4534259b9a3fc6c95bfb2\n\t\t\t\t\t\t\t\t\t\th\rttps://pikwizard.com/photo/land-landscape-mountain/239a0fdd1f1bfd9350b6fac0380c7b1e\n\n<b>Music</b>\n14_OptimisticLoneliness
-    from Wowie game jam https://itch.io/jam/wowie-jam-3"
+    from Wowie game jam https://itch.io/jam/wowie-jam-3\n\n<b>Sound</b>\nwooden knock 
+    547414__ian-g__wood-hit from freesound.org"
 --- !u!222 &944579810
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7761,9 +7762,9 @@ RectTransform:
   m_Father: {fileID: 1697008934}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -278.7041, y: 187}
+  m_AnchorMin: {x: 0, y: 0.5}
+  m_AnchorMax: {x: 0, y: 0.5}
+  m_AnchoredPosition: {x: 637.2959, y: 187}
   m_SizeDelta: {x: 254.5918, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1088031307
@@ -10198,8 +10199,8 @@ RectTransform:
   m_Father: {fileID: 2117235067}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.3664803}
-  m_AnchorMax: {x: 1, y: 1}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -10275,7 +10276,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -836, y: 139}
+  m_AnchoredPosition: {x: -836, y: 195}
   m_SizeDelta: {x: 50, y: 111}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1386012975
@@ -10527,7 +10528,7 @@ RectTransform:
   m_Father: {fileID: 468194243}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.3664803}
+  m_AnchorMin: {x: 0, y: 0.42689997}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
@@ -11214,7 +11215,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1468021761
 Transform:
   m_ObjectHideFlags: 0
@@ -11862,7 +11863,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -338, y: 139}
+  m_AnchoredPosition: {x: -338, y: 195}
   m_SizeDelta: {x: 50, y: 111}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1549488678
@@ -12008,8 +12009,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -12.486328, y: -196.59753}
-  m_SizeDelta: {x: -44.9714, y: 393.1949}
+  m_AnchoredPosition: {x: -12.486328, y: -253.15314}
+  m_SizeDelta: {x: -44.9714, y: 506.306}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1563098926
 MonoBehaviour:
@@ -12064,7 +12065,9 @@ MonoBehaviour:
     of the shadow.\r\n\u2026. the shadow is red the piece will drop at the position
     of the piece. This results in a loss of the piece.\r\n\r\n<b>Test grab\r</b>\nWhen
     you drop the piece in the first second after you grabbed it it will snap back
-    into the pile."
+    into the pile.\n\n<b>Unity's physic engine</b>\nIf the pile starts to 'walk'
+    then this is a physics engine issue. Try to grab the piece from the floor. This
+    helps in most cases."
 --- !u!222 &1563098927
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12709,6 +12712,7 @@ RectTransform:
   - {fileID: 864333059}
   - {fileID: 1088031306}
   - {fileID: 683547233}
+  - {fileID: 1830002416}
   m_Father: {fileID: 852673660}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -13694,6 +13698,89 @@ CanvasRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1827274911}
+  m_CullTransparentMesh: 1
+--- !u!1 &1830002415
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1830002416}
+  - component: {fileID: 1830002418}
+  - component: {fileID: 1830002417}
+  m_Layer: 5
+  m_Name: HintText
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1830002416
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1830002415}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1697008934}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -9, y: -4}
+  m_SizeDelta: {x: 794.0752, y: 154.5973}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1830002417
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1830002415}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 28
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 2
+    m_MaxSize: 40
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 'Do you want to listen to your own music?
+
+
+    Copy your mp3 file to Steady_State_Data\Music\Resources
+    and it will show up in the drop down'
+--- !u!222 &1830002418
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1830002415}
   m_CullTransparentMesh: 1
 --- !u!1 &1833990096
 GameObject:

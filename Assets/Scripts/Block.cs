@@ -236,6 +236,9 @@ public class Block : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        bumping.PlayOneShot(bumping.clip);
+        if (gameMasterScript != null && gameMasterScript.runGame)
+        {
+            bumping.PlayOneShot(bumping.clip);
+        }
     }
 }
